@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MAQECRBT
 
 [Document5]
-DocumentPath=..\..\..\..\Thomas\Downloads\nrf5340-xxaa-reference-layout-1_3\nRF5340-QKAA Reference Layout 1_2\Altium Designer files\Digital_Watch.PcbDoc
+DocumentPath=Digital_Watch.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KUFOMXAA
+DocumentUniqueId=
 
 [Document6]
 DocumentPath=MCU (nrf5340).SchDoc
