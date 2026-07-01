@@ -185,6 +185,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFTYUQKY
 
+[Document9]
+DocumentPath=GNNS (SAM-M10Q-00B).SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IGGOTTNG
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
