@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VHUSODRJ
 
 [Document8]
-DocumentPath=IMU (LSM6DSMTR).SchDoc
+DocumentPath=IMU (BMI270).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
