@@ -30,13 +30,13 @@ Design notes:
 
 ```
 Digital_Watch/
-├── Firmware/
-│   └── src/
-│       ├── CMakeLists.txt
-│       ├── prj.conf
-│       ├── nrf5340dk_nrf5340_cpuapp.overlay
-│       └── main.c
-└── (Altium project files)   TODO: list schematic / PCB / libraries
+├── Hardware/            Altium Designer project (schematic, PCB layout, libraries)
+└── Firmware/
+    └── src/
+        ├── CMakeLists.txt
+        ├── prj.conf
+        ├── nrf5340dk_nrf5340_cpuapp.overlay
+        └── main.c
 ```
 
 ## Building the firmware
