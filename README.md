@@ -23,7 +23,7 @@ Design notes:
 
 - Dual I2C bus architecture, 1.8 V bus with 3.3 kΩ pull-ups
 - Partitioned power tree (rails: 1.8 V, 3.0 V, 3.3 V)
-- No external flash on v1; OTA DFU is planned for v2
+- No external flash on v1
 - Ship mode disabled on v1 (SHPHLD tied to GND)
 
 ## Repository layout
